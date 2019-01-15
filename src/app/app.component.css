@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    width: 58%;
+    margin: 1%;
+    display: inline;
+}
+
+.ctnFlex{
+    display: flex;
+    justify-content: space-between;
+  }
